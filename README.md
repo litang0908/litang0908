@@ -1,23 +1,25 @@
-### Hi there 👋
+# 👨‍💻 LiTang0908
+
+[![Github Badge](https://img.shields.io/github/followers/litang0908?style=social)](https://github.com/litang0908)
+[![Github Badge](https://img.shields.io/github/stars/litang0908?style=social)](https://github.com/litang0908)
+<a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/litang0908/github-readme-stats?color=0088ff" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/litang0908/github-readme-stats?color=0088ff" />
+</a>
+
+[![LiTang0908's github stats](https://github-readme-stats.vercel.app/api?username=litang0908&count_private=true&hide_border=true&hide_title=true&include_all_commits=true&theme=dracula)](https://github.com/litang0908/github-readme-stats)
 
 <!--
-**litang0908/litang0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litang0908)](https://github.com/litang0908/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter
-- 📫 How to reach me: freetyc@foxmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-
-- 🔭 I’m currently working on https://qianjiapp.com
+- 🔭 I’m a solo developer from China, and now working on https://qianjiapp.com
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter
-- 💬 Ask me about Flutter
-- 📫 How to reach me: freetyc@foxmail.com
+- 💬 Ask me about Android, Flutter
+
+- 📫 How to reach me: [![Gmail Badge](http://img.shields.io/badge/%20-tangyuchun%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tangyuchun@gmail.com)](mailto:tangyuchun@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/%20-Litang-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/li-tang-a6602363/)](https://www.linkedin.com/in/li-tang-a6602363/)
