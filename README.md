@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on qianjiapp.com
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Flutter
+- 💬 Ask me about Flutter
+- 📫 How to reach me: freetyc@foxmail.com
