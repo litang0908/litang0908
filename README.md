@@ -1,6 +1,6 @@
 # 👨‍💻 LiTang0908
 
-[![Github Badge](https://img.shields.io/github/followers/litang0908?style=social)](https://github.com/litang0908)
+ [![Github Badge](https://img.shields.io/github/followers/litang0908?style=social)](https://github.com/litang0908)
 [![Github Badge](https://img.shields.io/github/stars/litang0908?style=social)](https://github.com/litang0908)
 <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/litang0908/github-readme-stats?color=0088ff" />
@@ -8,6 +8,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/litang0908/github-readme-stats?color=0088ff" />
 </a>
+![](https://komarev.com/ghpvc/?username=litang0908&color=brightgreen&style=flat)
 
 [![LiTang0908's github stats](https://github-readme-stats.vercel.app/api?username=litang0908&count_private=true&hide_border=true&hide_title=true&include_all_commits=true&theme=dracula)](https://github.com/litang0908/github-readme-stats)
 
