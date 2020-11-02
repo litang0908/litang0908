@@ -2,10 +2,10 @@
 
  [![Github Badge](https://img.shields.io/github/followers/litang0908?style=social)](https://github.com/litang0908)
 [![Github Badge](https://img.shields.io/github/stars/litang0908?style=social)](https://github.com/litang0908)
-<a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+<a href="https://github.com/litang0908/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/litang0908/github-readme-stats?color=0088ff" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats/issues">
+<a href="https://github.com/litang0908/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/litang0908/github-readme-stats?color=0088ff" />
 </a>
 ![](https://komarev.com/ghpvc/?username=litang0908&color=brightgreen&style=flat)
