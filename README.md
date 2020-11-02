@@ -16,7 +16,7 @@
 
 -->
 
-- 🔭 I’m a solo developer from China, and now working on https://qianjiapp.com
+- 🔭 I’m a solo developer, and now working on https://qianjiapp.com
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about Android, Flutter
