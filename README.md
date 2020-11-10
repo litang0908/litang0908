@@ -22,5 +22,5 @@
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about Android, Flutter
 
-- 📫 How to reach me: [![Gmail Badge](http://img.shields.io/badge/%20-tangyuchun%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tangyuchun@gmail.com)](mailto:tangyuchun@gmail.com)
+- 📫 How to reach me:  WeChat:litang0908  [![Gmail Badge](http://img.shields.io/badge/%20-tangyuchun%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tangyuchun@gmail.com)](mailto:tangyuchun@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/%20-Litang-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/li-tang-a6602363/)](https://www.linkedin.com/in/li-tang-a6602363/)
