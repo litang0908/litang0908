@@ -17,10 +17,10 @@
 
 -->
 
-- 🔭 I’m a solo developer, and now working on https://qianjiapp.com
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter
-- 💬 Ask me about Android, Flutter
+- 🔭 I’m a solo developer, and now working on https://github.com/w2solo/dreamland and  https://qianjiapp.com
+- 👯 I'm a contributor of https://github.com/w2solo/dreamland, an open source discussion website, welcome to join us :P
+- 🌱 I’m currently learning Flutter and looking to collaborate on Flutter
+- 💬 Ask me about Android,Flutter or anything about solo developer.
 
 - 📫 How to reach me:  WeChat:litang0908  [![Gmail Badge](http://img.shields.io/badge/%20-tangyuchun%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tangyuchun@gmail.com)](mailto:tangyuchun@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/%20-Litang-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/li-tang-a6602363/)](https://www.linkedin.com/in/li-tang-a6602363/)
