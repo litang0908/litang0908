@@ -23,6 +23,5 @@
 - 💬 Ask me about Android,Flutter or anything about solo developer.
 
 - 📫 How to reach me:
-- ![WeChat Badge](https://img.shields.io/badge/WeChat-litang0908-brightgreen?style=round&logo=wechat&logoColor=white)
 - [![Gmail Badge](http://img.shields.io/badge/%20-tangyuchun%40gmail.com-red?style=round&logo=Gmail&logoColor=white&link=mailto:tangyuchun@gmail.com)](mailto:tangyuchun@gmail.com)
 - [![Bento Badge](https://img.shields.io/badge/litang0908-9cf?style=round&logo=Bento&link=https://bento.me/litang0908)](https://bento.me/litang0908)
